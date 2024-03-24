@@ -1,1 +1,1 @@
-## An End to End Machine Learning Porject to Predict Medical Insurance Costs
+## An End to End Machine Learning Project to Predict Medical Insurance Costs
