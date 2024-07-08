@@ -2,4 +2,6 @@ pandas
 numpy
 seaborn
 joblib
+xgboost
+catboost
 -e .
